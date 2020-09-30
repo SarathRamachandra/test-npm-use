@@ -1,7 +1,7 @@
 # test-npm-use
 
-$ npm install
-$ node index.js
+$ npm install<br>
+$ node src/index.js
 
 See the output of the add/sub of two numbers
 
